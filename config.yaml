@@ -29,8 +29,8 @@ submodels:
     - name: ocean
       model: mom
       exe: /g/data/ik11/inputs/access-om2/bin/fms_ACCESS-OM_730f0bf_libaccessom2_d750b4b.x
-      input: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
-      ncpus: 216
+      input: /home/156/aek156/payu/make_grids/1deg_jra55_ryf_grid/mom_input
+      ncpus: 240
 
     - name: ice
       model: cice5
